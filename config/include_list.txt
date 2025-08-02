@@ -1,33 +1,3 @@
-group:🍄广东频道
-广州综合
-广州新闻
-广州影视频道
-广州电视台影视频道
-广州电视台法治频道
-广州南国都市频道
-4K南国都市频道
-广州竞赛频道
-广东珠江
-广东新闻
-广东卫视
-广东民生
-大湾区卫视
-广东体育
-江门综合
-江门侨乡生活
-佛山综合
-深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
-4KUHD
-纪实人文
-纪实科教
-金鹰纪实
-超级综艺
-
 group:🍓央视频道
 CCTV-1
 CCTV-2
@@ -89,134 +59,65 @@ group:🐧卫视频道
 云南卫视
 
 group:🦄️港·澳·台
-翡翠台
-TVB翡翠台
-翡翠综合台(北美)
-明珠台
-Pearl 明珠台
-无线明珠
-娛樂新聞台(HK)
-娱乐新闻台
-無線新聞台
-无线新闻台
-有线新闻
-TVBS新闻
-TVBS欢乐
-寰宇新聞台
-now新闻
-133爆谷台
-tvN
-PopC
-ROCK Action
-TVB星河
-千禧经典台
-712WARNERTV
-AMC電影台
-200TVBS台劇台
-TVBdrama
-Animax
-美亚电影台
-美亞電影台(HK)
-美亚电影粤
-美亚电影国
-HOYTV
-TVB Plus
-myTV SUPER FREE
-tvN
-MBC 대전
-Hoy 78
-天映频道粤
-天映频道国
-J2
-Viutv
-三立台湾
-三立新闻
-东森综合
-东森超视
-东森电影
-Now剧集
-Now华剧
-Now星影台
-靖天资讯
-靖天電影台
-星卫娱乐
-卫视卡式
-SUPER Kids Channel
-amc电影台
-Hbo原创台
-Hbo家庭台
-Hbo巨献台
-Hbo巨献备
-AXN电影台
-Channel 5 HD
-Channel 8 HD
-Channel U HD
-RTHK 31
-RTHK 32
-RTHK 33  
-RTHK 34
-RTHK 35
-RTHK 36
-番薯111
-澳门卫星
-澳门莲花
-Astr剧集台
-Astr综合台
-Astr欢喜台
-中天亞洲台
-中天新聞台
-中視
-千禧經典台
-東森电影国
-8-度空间国
-日本全天新聞
-明珠剧集台(北美)
-無線新聞台
-翡翠剧集台(北美)
-翡翠综合台(北美)
-華視
-靖天電影台
-黃金翡翠台
-龍華日韓台
-龍華經典台
-龍華電影台
-Now星影台
-TVB 星河台
-无线新闻台(北美)
-爆谷台
-新加坡中文
-華視
-龍華日韓台
-龍華電影台
+港澳台,#genre#
+翡翠台,
+凤凰中文,
+凤凰资讯,
+凤凰香港,
+凤凰卫视,
+香港卫视,
+TVBS欢乐,
+TVBS亚洲,
+TVBS新闻,
+J2,
+Viutv,
+明珠台,
+三立台湾,
+无线新闻,
+三立新闻,
+纬来体育,
+纬来育乐,
+东森综合,
+东森超视,
+东森电影,
+Now剧集,
+Now华剧,
+靖天资讯,
+星卫娱乐,
+卫视卡式,
+广东珠江,
+广东体育,
+广东民生,
+广东综艺,
+广东影视,
+经济科教,
+岭南戏曲,
+现代教育,
+大湾区卫视,
 
-group:🅱AKTV
-愛爾達綜合台
-愛爾達娛樂台
-愛爾達影劇台
-愛爾達日韓台
-Hami MLB 台
-Hami 卡通台(免費)
-Hami 日漫台(免費)
-Hami 韓劇台
-Hami 韓劇台(免費)
-amc 電影台
-Asian Food Network 亞洲美食頻道
-BBC Cbeebies
-BBC Earth
-BBC Lifestyle
-BBC NEWS
-Bloomberg TV
-Cartoonito
-CatchPlay 電影台
-CNEX 紀實頻道
-CNN 國際新聞台
-CNN 頭條新聞台(HLN)
-CN 卡通頻道
-Discovery Asia
-Discovery DMAX
-Discovery EVE
-Discovery Science
-DreamWorks 夢工廠動畫
-Eurosport
-Global Trekker
-Love Nature
+group:少儿频道
+东森幼幼,
+iFun动漫,
+momo亲子,
+黑莓动画,
+嘉佳少儿,
+卡酷少儿,
+动漫秀场,
+哈哈炫动,
+金鹰卡通,
+优漫卡通,
+靖洋卡通,
+广东少儿,
+
+group:影视频道
+CHC动作电影,
+CHC高清电影,
+CHC家庭影院,
+NewTV惊悚悬疑,
+NewTV动作电影,
+黑莓电影,
+纬来电影,
+靖天映画,
+靖天戏剧,
+星卫娱乐,
+艾尔达娱乐,
