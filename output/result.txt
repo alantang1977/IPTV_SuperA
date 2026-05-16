@@ -94,9 +94,9 @@ NewTV,#genre#
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 广东,#genre#
+广州综合,http://r.jdshipin.com/snhya
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州综合,http://r.jdshipin.com/snhya
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -110,7 +110,6 @@ NewTV,#genre#
 
 港澳台,#genre#
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
@@ -139,6 +138,7 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -164,31 +164,23 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 
 卫视频道,#genre#
-深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-东南卫视,http://124.228.160.176:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://124.228.160.176:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://182.114.50.12:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://1.197.249.239:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://124.228.160.176:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://182.114.50.12:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://1.197.249.239:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://182.114.50.12:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://124.228.160.176:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://182.114.50.12:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://124.228.160.176:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://182.114.50.12:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://124.228.160.176:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://1.197.249.239:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://1.197.249.239:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://182.114.50.12:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://124.228.160.176:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://182.114.50.12:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://182.114.50.12:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://1.197.249.239:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://124.228.160.176:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://182.114.50.12:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://1.197.249.239:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://182.114.50.12:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
+云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://218.29.147.237:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://125.42.150.130:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://218.29.147.237:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.29.147.237:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.29.147.237:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.29.147.237:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.29.147.237:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.29.147.237:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://218.29.147.237:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://218.29.147.237:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://218.29.147.237:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://218.29.147.237:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://218.29.147.237:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://218.29.147.237:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://218.29.147.237:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=78af5371d66a723fc72d7a69c8a18ade502c19d2cf715aa502730a2b197148f3ac859ba4dfc8177df928c7b17e4f7e50e73fa17782751d96ca1224dc27c62d3025503e7b80de41b09560f78ee1
 广东卫视,http://ms.fxim.net:808/hls/27/index.m3u8
@@ -377,6 +369,7 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 四川卫视,http://113.56.95.69:53765/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://119.36.148.115:59901/tsfile/live/0123_1.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
+深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://221.226.4.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://42.48.105.224:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://119.36.148.115:59901/tsfile/live/0126_1.m3u8
@@ -386,7 +379,6 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 三沙卫视,http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
 三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://ms.fxim.net:808/hls/21/index.m3u8
 天津卫视,http://221.226.4.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -537,7 +529,6 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 浙江卫视,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 江苏卫视,http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
-云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://119.62.24.75:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -680,7 +671,7 @@ CCTV-5+,http://39.134.61.218/PLTV/88888888/224/3221227218/index.m3u8
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
 
 央视频道,#genre#
-CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
@@ -850,6 +841,7 @@ CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
@@ -857,15 +849,14 @@ CETV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 广东频道,#genre#
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://ku9.3n.cc/smt.php?id=zhujiang
 广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8
