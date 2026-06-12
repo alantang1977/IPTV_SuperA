@@ -210,6 +210,8 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8&replay=1&day
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8&replay=1&days=7
 
 #EXTGRP:港澳台,
+#EXTINF:-1 group-title="港澳台",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
@@ -226,8 +228,6 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn&replay=1&days=7
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn&replay=1&days=7
-#EXTINF:-1 group-title="港澳台",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",娱乐新闻台
@@ -545,10 +545,12 @@ http://101.35.240.114:88/live.php?id=海南卫视&replay=1&days=7
 http://101.35.240.114:88/live.php?id=大湾区卫视&replay=1&days=7
 
 #EXTGRP:央视频道,
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://ku9.3n.cc/smt.php?id=cctv5plus&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CETV4
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8&replay=1&days=7
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0&replay=1&days=7
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://ku9.3n.cc/smt.php?id=cctv5plus&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CCTV-1
@@ -841,8 +843,6 @@ http://119.36.148.115:59901/tsfile/live/0015_1.m3u8&replay=1&days=7
 http://504099760.qicp.vip:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8&replay=1&days=7
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000&replay=1&days=7
 #EXTINF:-1 group-title="央视频道",CCTV-16
@@ -909,8 +909,8 @@ rtsp://116.176.26.18/PLTV/88888910/224/3221225594/100001000000000600000000002708
 http://173.208.212.130:8181/1080p/cctv5p.m3u8&replay=1&days=7
 
 #EXTGRP:卫视频道,
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0&replay=1&days=7
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",香港卫视
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -1609,6 +1609,8 @@ http://1.31.14.70:54321/hls/55/index.m3u8&replay=1&days=7
 https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro&replay=1&days=7
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -1648,8 +1650,6 @@ http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080&replay=1&days=7
-#EXTINF:-1 group-title="卫视频道",广东卫视
 http://113.57.111.4:1111/tsfile/live/1022_1.m3u8$订阅源-1920x1080&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://113.57.93.165:9900/tsfile/live/0125_1.m3u8$订阅源-1920x1080&replay=1&days=7
@@ -1660,7 +1660,7 @@ http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广州综合
-https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb&replay=1&days=7
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东珠江
@@ -1732,9 +1732,9 @@ http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广州综合
 http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广州综合
-http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe&replay=1&days=7
+https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487&replay=1&days=7
+http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",江门综合
 http://120.77.205.62:8087/rtp/239.77.0.195:5146&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",江门侨乡生活
@@ -1756,7 +1756,9 @@ http://120.77.205.62:8087/rtp/239.77.0.205:5146&replay=1&days=7
 
 #EXTGRP:国际频道,
 #EXTINF:-1 group-title="国际频道",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/&replay=1&days=7
+http://cdn6.163189.xyz/163189/fct&replay=1&days=7
+#EXTINF:-1 group-title="国际频道",翡翠台
+https://cdn6.163189.xyz/163189/fct4k&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",翡翠台
 http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",翡翠台
@@ -1778,13 +1780,11 @@ https://php.jdshipin.com/smt.php?id=pearl_twn&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",HOYTV
 https://php.jdshipin.com/smt.php?id=hoycaijing_twn&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",翡翠台
-http://cdn6.163189.xyz/163189/fct&replay=1&days=7
-#EXTINF:-1 group-title="国际频道",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",翡翠台
-http://o11.163189.xyz/stream/tvb/fct4k/&replay=1&days=7
+http://o11.163189.xyz/stream/tvb/fct/&replay=1&days=7
 #EXTINF:-1 group-title="国际频道",翡翠台
-https://cdn6.163189.xyz/163189/fct4k&replay=1&days=7
+http://o11.163189.xyz/stream/tvb/fct4k/&replay=1&days=7
 
 #EXTGRP:卫视频道
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视

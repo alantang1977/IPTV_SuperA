@@ -109,6 +109,7 @@ NewTV,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 
 港澳台,#genre#
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
@@ -117,7 +118,6 @@ NewTV,#genre#
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
@@ -281,8 +281,9 @@ CCTV-5+,http://39.134.61.218/PLTV/88888888/224/3221227218/index.m3u8
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
 
 央视频道,#genre#
-CCTV-5+,http://ku9.3n.cc/smt.php?id=cctv5plus
 CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://ku9.3n.cc/smt.php?id=cctv5plus
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
@@ -429,7 +430,6 @@ CCTV-15,http://42.48.105.224:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 CCTV-15,http://119.36.148.115:59901/tsfile/live/0015_1.m3u8
 CCTV-15,http://504099760.qicp.vip:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8
-CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-16,http://dsj.motem.top:8880/gaoma/cctv16.m3u8
 CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8
@@ -464,7 +464,7 @@ CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/100001000000000600000000
 CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 
 卫视频道,#genre#
-云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=78af5371d66a723fc72d7a69c8a18ade502c19d2cf715aa502730a2b197148f3ac859ba4dfc8177df928c7b17e4f7e50e73fa17782751d96ca1224dc27c62d3025503e7b80de41b09560f78ee1
@@ -814,6 +814,7 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 浙江卫视,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 江苏卫视,http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
+云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://119.62.24.75:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -833,14 +834,13 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8$订阅源-1920x1080
 广东卫视,http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 广东卫视,http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-广东卫视,http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 广东卫视,http://113.57.111.4:1111/tsfile/live/1022_1.m3u8$订阅源-1920x1080
 广东卫视,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8$订阅源-1920x1080
 广东卫视,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 
 广东频道,#genre#
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -876,8 +876,8 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 大湾区卫视,http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh
 广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 江门综合,http://120.77.205.62:8087/rtp/239.77.0.195:5146
 江门侨乡生活,http://120.77.205.62:8087/rtp/239.77.0.196:5146
 佛山综合,http://tp88.cn/IPTV/guangdong/fstv.php?id=fszh
@@ -889,7 +889,8 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 茂名公共,http://120.77.205.62:8087/rtp/239.77.0.205:5146
 
 国际频道,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -900,10 +901,9 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 翡翠台,https://php.jdshipin.com/smt.php?id=Jade_xue
 明珠台,https://php.jdshipin.com/smt.php?id=pearl_twn
 HOYTV,https://php.jdshipin.com/smt.php?id=hoycaijing_twn
-翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
 
 卫视频道#genre#
 北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
