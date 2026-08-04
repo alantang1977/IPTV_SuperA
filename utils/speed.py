@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 import logging
 
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
 
 async def get_speed_with_download(url, session):
     try:
