@@ -94,9 +94,9 @@ NewTV,#genre#
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 广东,#genre#
+广州综合,http://r.jdshipin.com/snhya
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州综合,http://r.jdshipin.com/snhya
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -164,7 +164,7 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 
 卫视频道,#genre#
-香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -177,6 +177,7 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 广东卫视,http://119.36.148.115:59901/tsfile/live/0125_1.m3u8
 广东卫视,http://220.164.192.48:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
+香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
@@ -518,7 +519,6 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 浙江卫视,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 江苏卫视,http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
-云南卫视,http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://119.62.24.75:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -661,6 +661,7 @@ CCTV-5+,http://39.134.61.218/PLTV/88888888/224/3221227218/index.m3u8
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
 
 央视频道,#genre#
+CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
@@ -838,11 +839,11 @@ CETV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 广东频道,#genre#
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
@@ -879,7 +880,6 @@ CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/100001000000000600000000
 大湾区卫视,http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh
 广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 江门综合,http://120.77.205.62:8087/rtp/239.77.0.195:5146
